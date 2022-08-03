@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "tieuDe":"Lu xu bu Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, voluptatem perspiciatis",
+        "trichDan" :"Tả bì lù Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae magni inventore ullam doloribus perferendis? Deserunt inventore ut, minus consectetur delectus eos enim dolorem magnam, rem voluptatibus voluptate culpa doloremque debitis.",
+        "noiDung":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dicta veritatis nobis corporis veniam iure vel laudantium minus a quisquam aliquid deserunt neque dolores in, quas accusamus praesentium quod aut! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero porro voluptatum non eligendi eaque quasi rem, maiores explicabo aut, deleniti expedita rerum enim excepturi at molestias. Ut commodi fugiat reprehenderit? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis aliquam, inventore doloribus, tempora unde itaque quam soluta eum mollitia eveniet cupiditate ex deleniti repellat exercitationem temporibus. Quibusdam dolore voluptate beatae!",
+        "anh":"images/dongu11.jpg"
+    },
+    {
+        "id":2,
+        "tieuDe":"Con đường có lá me bay Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, voluptatem perspiciatis",
+        "trichDan" :"Đường xưa Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae magni inventore ullam doloribus perferendis? Deserunt inventore ut, minus consectetur delectus eos enim dolorem magnam, rem voluptatibus voluptate culpa doloremque debitis.",
+        "noiDung":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dicta veritatis nobis corporis veniam iure vel laudantium minus a quisquam aliquid deserunt neque dolores in, quas accusamus praesentium quod aut! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero porro voluptatum non eligendi eaque quasi rem, maiores explicabo aut, deleniti expedita rerum enim excepturi at molestias. Ut commodi fugiat reprehenderit? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis aliquam, inventore doloribus, tempora unde itaque quam soluta eum mollitia eveniet cupiditate ex deleniti repellat exercitationem temporibus. Quibusdam dolore voluptate beatae!",
+        "anh":"images/dongu12.jpg"
+    },
+    {
+        "id":3,
+        "tieuDe":"Quê hương là chùm khế Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, voluptatem perspiciatis",
+        "trichDan" :"Quê hương Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae magni inventore ullam doloribus perferendis? Deserunt inventore ut, minus consectetur delectus eos enim dolorem magnam, rem voluptatibus voluptate culpa doloremque debitis.",
+        "noiDung":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dicta veritatis nobis corporis veniam iure vel laudantium minus a quisquam aliquid deserunt neque dolores in, quas accusamus praesentium quod aut! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero porro voluptatum non eligendi eaque quasi rem, maiores explicabo aut, deleniti expedita rerum enim excepturi at molestias. Ut commodi fugiat reprehenderit? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis aliquam, inventore doloribus, tempora unde itaque quam soluta eum mollitia eveniet cupiditate ex deleniti repellat exercitationem temporibus. Quibusdam dolore voluptate beatae!",
+        "anh":"images/dongu13.jpg"
+    },
+    {
+        "id":4,
+        "tieuDe":"Đường vào tim em Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, voluptatem perspiciatis",
+        "trichDan" :"Yêu là mình lu bu Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae magni inventore ullam doloribus perferendis? Deserunt inventore ut, minus consectetur delectus eos enim dolorem magnam, rem voluptatibus voluptate culpa doloremque debitis.",
+        "noiDung":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dicta veritatis nobis corporis veniam iure vel laudantium minus a quisquam aliquid deserunt neque dolores in, quas accusamus praesentium quod aut! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero porro voluptatum non eligendi eaque quasi rem, maiores explicabo aut, deleniti expedita rerum enim excepturi at molestias. Ut commodi fugiat reprehenderit? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis aliquam, inventore doloribus, tempora unde itaque quam soluta eum mollitia eveniet cupiditate ex deleniti repellat exercitationem temporibus. Quibusdam dolore voluptate beatae!",
+        "anh":"images/dongu14.jpg"
+    },
+    {
+        "id":5,
+        "tieuDe":"Chiều nội trú Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, voluptatem perspiciatis",
+        "trichDan" :"TThân xác rã rời Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae magni inventore ullam doloribus perferendis? Deserunt inventore ut, minus consectetur delectus eos enim dolorem magnam, rem voluptatibus voluptate culpa doloremque debitis.",
+        "noiDung":"Rồi có một ngày dolor sit amet consectetur adipisicing elit. Laboriosam dicta veritatis nobis corporis veniam iure vel laudantium minus a quisquam aliquid deserunt neque dolores in, quas accusamus praesentium quod aut! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero porro voluptatum non eligendi eaque quasi rem, maiores explicabo aut, deleniti expedita rerum enim excepturi at molestias. Ut commodi fugiat reprehenderit? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis aliquam, inventore doloribus, tempora unde itaque quam soluta eum mollitia eveniet cupiditate ex deleniti repellat exercitationem temporibus. Quibusdam dolore voluptate beatae!",
+        "anh":"images/dongu9.jpg"
+    },
+    {
+        "id":6,
+        "tieuDe":"Ta hát cho em ipsum dolor sit amet consectetur adipisicing elit. Rem, voluptatem perspiciatis",
+        "trichDan" :"TBài tình ca thiết tha ipsum dolor sit, amet consectetur adipisicing elit. Quae magni inventore ullam doloribus perferendis? Deserunt inventore ut, minus consectetur delectus eos enim dolorem magnam, rem voluptatibus voluptate culpa doloremque debitis.",
+        "noiDung":"Ta hát cho em dù sit amet consectetur adipisicing elit. Laboriosam dicta veritatis nobis corporis veniam iure vel laudantium minus a quisquam aliquid deserunt neque dolores in, quas accusamus praesentium quod aut! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero porro voluptatum non eligendi eaque quasi rem, maiores explicabo aut, deleniti expedita rerum enim excepturi at molestias. Ut commodi fugiat reprehenderit? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis aliquam, inventore doloribus, tempora unde itaque quam soluta eum mollitia eveniet cupiditate ex deleniti repellat exercitationem temporibus. Quibusdam dolore voluptate beatae!",
+        "anh":"images/dongu16.jpg"
+    },
+    {
+        "id":7,
+        "tieuDe":"Nắng chiều ipsum dolor sit amet consectetur adipisicing elit. Rem, voluptatem perspiciatis",
+        "trichDan" :"TBài tình ca thiết tha ipsum dolor sit, amet consectetur adipisicing elit. Quae magni inventore ullam doloribus perferendis? Deserunt inventore ut, minus consectetur delectus eos enim dolorem magnam, rem voluptatibus voluptate culpa doloremque debitis.",
+        "noiDung":"Ta hát cho em dù sit amet consectetur adipisicing elit. Laboriosam dicta veritatis nobis corporis veniam iure vel laudantium minus a quisquam aliquid deserunt neque dolores in, quas accusamus praesentium quod aut! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero porro voluptatum non eligendi eaque quasi rem, maiores explicabo aut, deleniti expedita rerum enim excepturi at molestias. Ut commodi fugiat reprehenderit? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis aliquam, inventore doloribus, tempora unde itaque quam soluta eum mollitia eveniet cupiditate ex deleniti repellat exercitationem temporibus. Quibusdam dolore voluptate beatae!",
+        "anh":"images/dongu18.jpg"
+    },
+    {
+        "id":8,
+        "tieuDe":"Tưng tưng tựng ipsum dolor sit amet consectetur adipisicing elit. Rem, voluptatem perspiciatis",
+        "trichDan" :"TBài tình ca thiết tha ipsum dolor sit, amet consectetur adipisicing elit. Quae magni inventore ullam doloribus perferendis? Deserunt inventore ut, minus consectetur delectus eos enim dolorem magnam, rem voluptatibus voluptate culpa doloremque debitis.",
+        "noiDung":"Ta hát cho em dù sit amet consectetur adipisicing elit. Laboriosam dicta veritatis nobis corporis veniam iure vel laudantium minus a quisquam aliquid deserunt neque dolores in, quas accusamus praesentium quod aut! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero porro voluptatum non eligendi eaque quasi rem, maiores explicabo aut, deleniti expedita rerum enim excepturi at molestias. Ut commodi fugiat reprehenderit? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis aliquam, inventore doloribus, tempora unde itaque quam soluta eum mollitia eveniet cupiditate ex deleniti repellat exercitationem temporibus. Quibusdam dolore voluptate beatae!",
+        "anh":"images/dongu17.jpg"
+    }
+]
